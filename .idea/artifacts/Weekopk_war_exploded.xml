@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Weekopk:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Weekopk_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Weekopk/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Weekopk" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
